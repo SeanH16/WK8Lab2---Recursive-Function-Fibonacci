@@ -7,7 +7,6 @@
 #recursive function to return fibonacci for 16
 
 def fibonacci(num):
-    total = 1
     if num <= 1:
         return num
     else:
